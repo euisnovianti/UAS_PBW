@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Deskripsi Aplikasi
-**ANGGO** adalah aplikasi berbasis website yang dirancang untuk memodernisasi sistem transportasi publik di Kabupaten Garut. Aplikasi ini membantu pengguna mencari rute angkot terbaik berdasarkan titik awal dan tujuan.
+**ANGGO** adalah aplikasi berbasis website yang dirancang untuk memodernisasi sistem transportasi publik di Kabupaten Garut. Aplikasi ini membantu pengguna mencari rute angkot berdasarkan titik awal dan tujuan.
 
 ### ✨ Fitur Utama:
 * **Pencarian Rute:** Mencari nomor angkot berdasarkan lokasi asal dan tujuan.
