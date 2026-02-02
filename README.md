@@ -4,7 +4,6 @@
 * **Nama:** Euis Novianti
 * **NIM:** 2307021
 * **Mata Kuliah:** Pemrograman Berbasis Web
-* **Dosen:** Sigit Hudawiguna, S.Kom., M.Kom.
 
 ---
 
@@ -25,6 +24,11 @@
 * **Frontend:** Tailwind CSS & Leaflet.js (Map Library)
 * **Database:** MySQL
 * **API:** OSRM (Open Source Routing Machine) API untuk perhitungan rute.
+
+---
+
+## Link Database dan Laporan
+https://drive.google.com/drive/folders/1dmgKtJhMmvyzGbIIZQ_2pnFKrhpCqe8p
 
 ---
 
