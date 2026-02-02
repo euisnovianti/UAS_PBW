@@ -81,7 +81,7 @@ https://drive.google.com/drive/folders/1dmgKtJhMmvyzGbIIZQ_2pnFKrhpCqe8p
 - Detail Tambah Angkot
 <img width="759" height="416" alt="image" src="https://github.com/user-attachments/assets/24909204-f87f-41ed-8b3d-63214757e0eb" />
 
-*Kelola Data Pengguna
+- Kelola Data Pengguna
 <img width="776" height="429" alt="image" src="https://github.com/user-attachments/assets/d11303d4-24c1-40ce-9928-2983cb273406" />
 
 - Fitur Uji Coba Data Angkot di Admin
