@@ -34,15 +34,18 @@
    git clone [https://github.com/euisnovianti/UAS_PBW.git]
    cd anggo
 2. **Instal Dependency:**
-   ```composer install
+   ```bash
+   composer install
    npm install && npm run build
 3. **Konfigurasi Environment**: Salin file .env anggo_db
 4. **Generate Key & Migrate**
-   ```php artisan key:generate
+   ```bash
+   php artisan key:generate
    php artisan migrate --seed
    
 6. **Jalankan Aplikasi:**
-   ```php artisan serve
+   ```bash
+   php artisan serve
 
 ## 📸 Screenshot Tampilan Web ANGGO
 
